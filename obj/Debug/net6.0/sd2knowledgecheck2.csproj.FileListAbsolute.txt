@@ -1,0 +1,15 @@
+C:\Users\goper\source\repos\sd2knowledgecheck2\bin\Debug\net6.0\sd2knowledgecheck2.exe
+C:\Users\goper\source\repos\sd2knowledgecheck2\bin\Debug\net6.0\sd2knowledgecheck2.deps.json
+C:\Users\goper\source\repos\sd2knowledgecheck2\bin\Debug\net6.0\sd2knowledgecheck2.runtimeconfig.json
+C:\Users\goper\source\repos\sd2knowledgecheck2\bin\Debug\net6.0\sd2knowledgecheck2.dll
+C:\Users\goper\source\repos\sd2knowledgecheck2\bin\Debug\net6.0\sd2knowledgecheck2.pdb
+C:\Users\goper\source\repos\sd2knowledgecheck2\obj\Debug\net6.0\sd2knowledgecheck2.csproj.AssemblyReference.cache
+C:\Users\goper\source\repos\sd2knowledgecheck2\obj\Debug\net6.0\sd2knowledgecheck2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goper\source\repos\sd2knowledgecheck2\obj\Debug\net6.0\sd2knowledgecheck2.AssemblyInfoInputs.cache
+C:\Users\goper\source\repos\sd2knowledgecheck2\obj\Debug\net6.0\sd2knowledgecheck2.AssemblyInfo.cs
+C:\Users\goper\source\repos\sd2knowledgecheck2\obj\Debug\net6.0\sd2knowledgecheck2.csproj.CoreCompileInputs.cache
+C:\Users\goper\source\repos\sd2knowledgecheck2\obj\Debug\net6.0\sd2knowledgecheck2.dll
+C:\Users\goper\source\repos\sd2knowledgecheck2\obj\Debug\net6.0\refint\sd2knowledgecheck2.dll
+C:\Users\goper\source\repos\sd2knowledgecheck2\obj\Debug\net6.0\sd2knowledgecheck2.pdb
+C:\Users\goper\source\repos\sd2knowledgecheck2\obj\Debug\net6.0\sd2knowledgecheck2.genruntimeconfig.cache
+C:\Users\goper\source\repos\sd2knowledgecheck2\obj\Debug\net6.0\ref\sd2knowledgecheck2.dll
